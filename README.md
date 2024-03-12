@@ -1,1 +1,1 @@
-# Rice-Classification-with-CNNs
+# Rice-Classification-using-CNNs
